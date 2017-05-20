@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Beginning of a New start
-date:   2017-05-20 01:20:33 +0000
+title:  Beginning of a New Start
+date:   2017-05-19 21:20:34 -0400
 ---
 
   My name is Timothy, I have recently found a way to get myself into starting a new path in life. I found a way to leave the career choice I didn't really choose or not choose just happened to do. It is not that I'm not good at it, it's just not what I want to do.
