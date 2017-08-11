@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cli scrapper doable?"
-date:   2017-08-11 15:03:22 +0000
+date:   2017-08-11 11:03:23 -0400
 ---
 
 
