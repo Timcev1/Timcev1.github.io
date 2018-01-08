@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Javascript v2"
-date:       2018-01-08 04:43:09 +0000
+date:       2018-01-07 23:43:10 -0500
 permalink:  javascript_v2
 ---
 
